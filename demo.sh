@@ -2,11 +2,6 @@
 
 # DUCT + DATALAD OHBM Demo
 # Execute with: doitlive play demo.sh
-
-set -x
-
-export DEMO_DIR=/home/austin/devel/sandbox/duct-datalad-ohbm-demo
-
 ./phase-0-0.sh
 
 ./phase-0-1.sh
