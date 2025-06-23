@@ -1,0 +1,5 @@
+[submodule "inputs/data"]
+	path = inputs/data
+	url = git@github.com:ReproNim/ds000003-demo
+	datalad-id = 9040fae2-8704-11e8-aff3-0242ac12000c
+	datalad-url = https://github.com/ReproNim/ds000003-demo
