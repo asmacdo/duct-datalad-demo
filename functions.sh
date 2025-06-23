@@ -8,7 +8,6 @@ banner() {
     local color="${3:-36}"  # Default to cyan
 
     # Clear screen and set colors
-    # TODO re-enable, left out for development
     clear
     echo -e "\033[${color}m"
 

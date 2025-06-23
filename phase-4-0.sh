@@ -2,4 +2,4 @@
 
 source /home/austin/devel/sandbox/duct-datalad-ohbm-demo/functions.sh
 
-banner "Phase 1: Outputs" "Show generated files and inspect the nib-ls output" "36"
+banner "Phase 4: Results" "Explore the rich execution data captured by duct" "35"

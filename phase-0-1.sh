@@ -3,7 +3,8 @@
 source ~/venvs/duct/bin/activate
 source functions.sh
 
-banner "Phase 0: Setup" "Fresh dataset with source data" "32"
+banner "Phase 0: Setup" "• Create fresh datalad dataset
+• Install neuroimaging data from ReproNim" "32"
 
 # Configure datalad (off camera)
 export DATALAD_UI_DIALOG=false
